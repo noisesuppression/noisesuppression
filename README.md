@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=C+%7C+Python+%7C+Lua+%7C+C%23;building+things+from+scratch;segfaults+are+just+plot+twists" alt="typing animation" />
-</p>
-
-<p align="center">
   <img src="https://media.tenor.com/oBOq60x8IvQAAAAi/dancing-anime-girl.gif" height="150" alt="dancing anime girl" />
 </p>
 
