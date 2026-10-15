@@ -52,5 +52,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noisesuppression&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=true" width="100%" alt="activity graph" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=C+%7C+Python+%7C+Lua+%7C+C%23;building+things+from+scratch;segfaults+are+just+plot+twists" alt="typing animation" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=noisesuppression&label=Profile+views&color=bd93f9&style=for-the-badge" alt="profile views" />
 </div>
