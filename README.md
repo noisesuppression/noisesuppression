@@ -9,6 +9,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=noisesuppression&theme=dracula&hide_border=false" height="150" alt="streak stats" />
+</div>
+
+###
+
 <img align="right" height="150" src="https://media.tenor.com/oBOq60x8IvQAAAAi/dancing-anime-girl.gif" />
 
 ###
@@ -45,4 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/noisesuppression/noisesuppression/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noisesuppression&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=true" width="100%" alt="activity graph" />
+</div>
