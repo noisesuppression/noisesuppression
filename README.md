@@ -1,7 +1,13 @@
-<h1 align="center">noisesuppression</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&height=55&repeat=false&lines=noisesuppression" alt="noisesuppression" />
+</p>
 
 <p align="center">
-  <i>software dev in progress. compiling my way through life.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&height=30&repeat=false&lines=software+dev+in+progress.+compiling+my+way+through+life." alt="software dev in progress. compiling my way through life." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=FF79C6&center=true&vCenter=true&width=600&height=35&lines=C+%7C+Python+%7C+Lua+%7C+C%23;building+things+from+scratch;segfaults+are+just+plot+twists" alt="typing animation" />
 </p>
 
 <p align="center">
@@ -10,7 +16,9 @@
 
 ---
 
-<h3 align="center">Stats</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1500&color=BD93F9&center=true&vCenter=true&width=300&height=40&repeat=false&lines=stats" alt="stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noisesuppression&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&border_radius=12" height="165" alt="stats graph" />
@@ -24,7 +32,9 @@
 
 ---
 
-<h3 align="center">Tech</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1500&color=BD93F9&center=true&vCenter=true&width=300&height=40&repeat=false&lines=tech" alt="tech" />
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C" />
@@ -48,7 +58,9 @@
 
 ---
 
-<h3 align="center">Find me</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1500&color=BD93F9&center=true&vCenter=true&width=300&height=40&repeat=false&lines=find+me" alt="find me" />
+</p>
 
 <p align="center">
   <a href="https://instagram.com/offgridkhaled" target="_blank">
